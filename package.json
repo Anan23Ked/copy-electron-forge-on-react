@@ -1,0 +1,75 @@
+{
+  "main": "./electron/main.js",
+  "name": "weld-react-forge",
+  "description": "Electron-forge onn react copy",
+  "author": "Ananya",
+  "license": "MIT",
+  "version": "0.1.0",
+  "private": true,
+  "type": "Commonjs",
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.10",
+    "@mui/material": "^5.15.11",
+    "@mui/x-charts": "^6.19.5",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/react-router-dom": "^5.3.3",
+    "chart.js": "^4.4.1",
+    "electron-is-dev": "^3.0.1",
+    "electron-squirrel-startup": "^1.0.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-player": "^2.14.1",
+    "react-router-dom": "^6.22.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start-forge": "electron-forge start",
+    "package": "electron-forge package",
+    "electron":"electron .",
+    "make": "electron-forge make"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "@electron-forge/cli": "^7.3.0",
+    "@electron-forge/maker-deb": "^7.3.0",
+    "@electron-forge/maker-rpm": "^7.3.0",
+    "@electron-forge/maker-squirrel": "^7.3.0",
+    "@electron-forge/maker-zip": "^7.3.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.3.0",
+    "@electron-forge/plugin-fuses": "^7.3.0",
+    "@svgr/webpack": "^8.1.0",
+    "autoprefixer": "^10.4.17",
+    "electron": "29.1.0",
+    "electron-winstaller": "^5.2.2",
+    "postcss": "^8.4.34",
+    "tailwindcss": "^3.4.1"
+  }
+}

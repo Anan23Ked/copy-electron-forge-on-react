@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4e54462.css",
+    "main.js": "/static/js/main.7fd9041b.js",
+    "static/js/592.bc6b4691.chunk.js": "/static/js/592.bc6b4691.chunk.js",
+    "static/media/output.mp4": "/static/media/output.103ec92ba6a4d376f056.mp4",
+    "static/media/TempFill.svg": "/static/media/TempFill.7641a186e7dca09047cec7924cdc4167.svg",
+    "static/media/Voltage.svg": "/static/media/Voltage.049521c45b4f23defe645cd45d7576ce.svg",
+    "static/media/Current.svg": "/static/media/Current.581d48ec07c25462064fa41e860328f0.svg",
+    "static/media/Vector-DegreeCelcius.svg": "/static/media/Vector-DegreeCelcius.24c8ae565f18ff0c053dc93d176b6a33.svg",
+    "index.html": "/index.html",
+    "static/media/Tick.svg": "/static/media/Tick.2cb9d217eab26c4a2ee52c7682dbae84.svg",
+    "static/media/Error.svg": "/static/media/Error.a37a86393fef5fdbf43428cb72145910.svg",
+    "static/media/None.svg": "/static/media/None.95fdd1402c6bfce49891915786de2e4d.svg",
+    "static/media/Time.svg": "/static/media/Time.ba23d39e529879a49a1e0281f46a7cad.svg",
+    "main.c4e54462.css.map": "/static/css/main.c4e54462.css.map",
+    "main.7fd9041b.js.map": "/static/js/main.7fd9041b.js.map",
+    "592.bc6b4691.chunk.js.map": "/static/js/592.bc6b4691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e54462.css",
+    "static/js/main.7fd9041b.js"
+  ]
+}
